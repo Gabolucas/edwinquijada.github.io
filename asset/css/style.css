@@ -1,0 +1,116 @@
+body{ 
+    background-color:#dedede ;
+    
+}
+
+.navbar{ 
+    background-color: #eeeeee; 
+    color: #ffffff;
+}
+
+
+.imgp { 
+    border-radius: 50%;
+width: 20%;
+
+}
+
+.container{ 
+    width: 60%;
+
+} 
+
+
+.educacion { 
+    width: 90%;
+    height: 100%;
+    background-color: #eeecec; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 2%;
+} 
+
+.Experiencis{ 
+      width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;
+} 
+.videos{ 
+    justify-content: center;
+      width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 1px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;
+} 
+
+.habilidades{ 
+    width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;
+} 
+
+.contacto { 
+    background-color: #e6e6e6; 
+  width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;   
+} 
+
+.porta{ 
+    width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;
+} 
+
+.container{ 
+    width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;
+}
+
+.my-5{ 
+   width: 90%;
+    height: 100%;
+    background-color: #e6e6e6; 
+    border: 2px solid ; 
+     border-radius: 20px;
+margin: 2rem; 
+padding: 3%;   
+}
+
+footer{ 
+    width: 100%;
+    height: 50%;
+    margin-top: 2rem;
+    border: 20 radius;
+    background-color: #e6e6e6;
+    padding: 1rem;
+}
+
+.fondo{ 
+    background-color: #e6e6e6;
+}
