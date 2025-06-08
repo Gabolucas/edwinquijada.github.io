@@ -114,3 +114,8 @@ footer{
 .fondo{ 
     background-color: #e6e6e6;
 }
+
+.card-text i {
+  margin-right: 8px;
+  color: #007bff; /* azul para resaltar */
+}
